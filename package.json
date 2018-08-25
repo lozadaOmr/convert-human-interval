@@ -1,0 +1,20 @@
+{
+  "name": "convert-human-interval",
+  "version": "0.0.0",
+  "description": "Converts human-interval to different format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "human-interval",
+    "convert"
+  ],
+  "homepage": "https://github.com/lozadaOmr/convert-human-interval#convert-human-interval",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lozadaOmr/convert-human-interval.git"
+  },
+  "author": "Omar Timothy Lozada",
+  "license": "MIT"
+}
